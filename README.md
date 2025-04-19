@@ -16,7 +16,7 @@ Outil OSINT tout-en-un avec :
 wsl --install -d Ubuntu
 
 # 2. Dans WSL:
-git clone https://github.com/votre-user/Ultimate-OSINT-Tool.git
+git clone https://github.com/Yaskoxc/Ultimate-OSINT-Tool.git
 cd Ultimate-OSINT-Tool
 
 # 3. Configurer Tor:
